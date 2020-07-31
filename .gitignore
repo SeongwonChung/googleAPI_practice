@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+Pipfile.lock
+__MACOSX
+chromedriver.exe
+gspeech.py
